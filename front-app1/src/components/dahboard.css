@@ -1,0 +1,30 @@
+.MuiAppBar-colorPrimary{
+    background-color: #563d7c !important;
+}
+.MuiBadge-colorSecondary{
+    background-color:white !important;
+}
+.MuiBadge-anchorOriginTopRightRectangle{
+    color: black !important;
+    font-size: 14px !important;
+    font-weight: bold !important;
+}
+.MuiAvatar-colorDefault {
+    background-color:#563d7c !important;
+}
+.MuiButton-containedPrimary {
+    background-color:#563d7c !important;
+}
+
+.img21{
+    width: 400px;
+    height: 400px;
+}
+.makeStyles-image-2{
+    background-color: white !important;
+}
+.MuiGrid-grid-md-5{
+    border-left: 2px solid black !important;
+}
+
+ 
