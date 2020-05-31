@@ -2,6 +2,5 @@
 
 ![](images/storelogin.png)
 
-![](images/storesignup.png)
 
  
